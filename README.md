@@ -39,14 +39,14 @@ or
 npm install
 ```
 
-After installing the dependencies insert the mongodb connection url in your .env file
+After installing the dependencies insert the mongodb connection url in your .env file. Use Mongodb Atlas
 
 ```
 DATABASE_URL="MONGO_URL"
 ```
 
-If you don't know how to create a connection with mongodb, you can follow this tutorial step by step <br>
-<a href="https://dev.to/dalalrohit/how-to-connect-to-mongodb-atlas-using-node-js-k9i">Click Here</a>
+If you don't know how to create a connection with mongodb Atlas, you can follow this step-by-step tutorial <br>
+<a href="https://abyssinian-geometry-9d3.notion.site/Documentation-for-installing-MongoDB-using-the-mongodb-atlas-5442a2ba7a73447e822c0e37995d7619">Click Here</a>
 
 After placing the mongodb url execute the following commands:
 
