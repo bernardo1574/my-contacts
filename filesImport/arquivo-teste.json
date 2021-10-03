@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "name": "Enzo Gabriel Duarte",
+      "username": "enzo.gabriel.duarte",
+      "password": 123456
+    },
+    {
+      "name": "Luiz Felipe Barbosa",
+      "username": "luiz.felipe.barbosa",
+      "password": 123456
+    },
+    {
+      "name": "Sra. Sofia Ferreira",
+      "username": "sofia.ferreira",
+      "password": 123456
+    },
+    {
+      "name": "Giovanna Fernandes",
+      "username": "giovanna.fernandes",
+      "password": 123456
+    },
+    {
+      "name": "Isabelly da Cruz",
+      "username": "isabelly.dacruz",
+      "password": 123456
+    },
+    {
+      "name": "Srta. Helena Oliveira",
+      "username": "helena.oliveira",
+      "password": 123456
+    },
+    {
+      "name": "Alice Gonçalves",
+      "username": "alice.gonçalves",
+      "password": 123456
+    },
+    {
+      "name": "Ian Gonçalves",
+      "username": "ian.gonçalves",
+      "password": 123456
+    },
+    {
+      "name": "Carlos Eduardo Ferreira",
+      "username": "carlos.eduardo.ferreira",
+      "password": 123456
+    },
+    {
+      "name": "Erick Pereira",
+      "username": "erick.pereira",
+      "password": 123456
+    },
+    {
+      "name": "Diego Gomes",
+      "username": "diego.gomes",
+      "password": 123456
+    },
+    {
+      "name": "Sr. Ryan Novaes",
+      "username": "ryan.novaes",
+      "password": 123456
+    },
+    {
+      "name": "Fernando Campos",
+      "username": "fernando.campos",
+      "password": 123456
+    },
+    {
+      "name": "Raquel Cavalcanti",
+      "username": "raquel.cavalcanti",
+      "password": 123456
+    },
+    {
+      "name": "Clarice Costa",
+      "username": "clarice.costa",
+      "password": 123456
+    },
+    {
+      "name": "Bernardo Pieropan Neto",
+      "username": "bernardo1574",
+      "password": 123456
+    }
+  ]
+}
