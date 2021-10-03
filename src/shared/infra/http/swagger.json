@@ -2,7 +2,7 @@
   "openapi": "3.0.0",
   "info": {
     "title": "MyUsers Documentation",
-    "description": "This is an API to make a CRUD of registered users. To view users, edit or delete you need to be logged in, if you don't have a user, you can simply create one by creating it and then log in.",
+    "description": "This is an API to make a CRUD of registered users. To view, edit or delete users, you must be logged in; if you don't have a user, you can simply create one via the create route and then log in via the session route.",
     "version": "1.0.0",
     "contact": {
       "email": "bernardopiero12330@gmail.com",
