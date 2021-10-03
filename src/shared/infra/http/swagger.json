@@ -245,8 +245,8 @@
         "tags": [
           "User"
         ],
-        "summary": "Insert multiple users via a json or csv file",
-        "description": "Insert multiple users via a json or csv file. The test file is inside the project.",
+        "summary": "Insert multiple users",
+        "description": "Insert multiple users via a json or csv file. The test file is inside the project in the filesImport/ folder",
         "security": [
           {
             "bearerAuth": []
